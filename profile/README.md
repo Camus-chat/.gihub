@@ -24,9 +24,9 @@
 
 ## 💫 TEAM
 ******
-| <a href="https://github.com/damdam6"><br/><img src="https://github.com/damdam6.png" width="120"/></a> | <a href="https://github.com/kimsejin"><img src="https://github.com/kimsejin.png" width="120"/></a> | <a href="https://github.com/dtdtdz"><img src="https://github.com/dtdtdz.png" width="120"/></a> | <a href="https://github.com/dolmeengii"><img src="https://github.com/dolmeengii.png" width="120"/></a> | <a href="https://github.com/SiyeonYoo"><img src="https://github.com/SiyeonYoo.png" width="120"/></a> | <a href="https://github.com/gabalja"><img src="https://github.com/gabalja.png" width="120"/></a> |
-|:-----------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
-|                                   [damdam6](https://github.com/damdam6)                                   |                                 [kimsejin](https://github.com/kimsejin)                                  |                                 [dtdtdz](https://github.com/dtdtdz)                                 |                                 [민돌멩이](https://github.com/dolmeengii)                                  |                                [SiyeonYoo](https://github.com/SiyeonYoo)                                 |                                [gabalja](https://github.com/gabalja)                                 |
+|        <a href="https://github.com/damdam6"><br/><img src="https://github.com/damdam6.png"/></a>         | <a href="https://github.com/kimsejin"><img src="https://github.com/kimsejin.png" width="120"/></a> | <a href="https://github.com/dtdtdz"><img src="https://github.com/dtdtdz.png" width="120"/></a> | <a href="https://github.com/dolmeengii"><img src="https://github.com/dolmeengii.png" width="120"/></a> | <a href="https://github.com/SiyeonYoo"><img src="https://github.com/SiyeonYoo.png" width="120"/></a> | <a href="https://github.com/gabalja"><img src="https://github.com/gabalja.png" width="120"/></a> |
+|:--------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
+|                                  [damdam6](https://github.com/damdam6)                                   |                                 [kimsejin](https://github.com/kimsejin)                                  |                                 [dtdtdz](https://github.com/dtdtdz)                                 |                                 [민돌멩이](https://github.com/dolmeengii)                                  |                                [SiyeonYoo](https://github.com/SiyeonYoo)                                 |                                [gabalja](https://github.com/gabalja)                                 |
 
 <br>
 
@@ -39,8 +39,8 @@
 
 <p align="center">
   <a href="https://camus.life/">
-    <img src="./asset/custom.PNG" alt="camus">
-    <img src="./asset/logo.PNG" alt="biz-logo">
+    <img src="https://github.com/Camus-chat/.github/blob/main/profile/asset/custom.PNG" alt="camus">
+    <img src="https://github.com/Camus-chat/.github/blob/main/profile/asset/logo.PNG" alt="biz-logo">
   </a>
 </p>
 
