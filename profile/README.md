@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://camus.life/">
-    <img src="./asset/main.PNG" alt="main">
+    <img src="https://github.com/Camus-chat/.github/blob/main/profile/asset/main.PNG" alt="main">
   </a>
 </p>
 
