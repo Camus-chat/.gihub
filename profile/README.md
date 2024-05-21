@@ -40,7 +40,7 @@
 <p align="center">
   <a href="https://camus.life/">
     <img src="https://github.com/Camus-chat/.github/blob/main/profile/asset/logo.PNG" alt="logo">
-    <img src="https://github.com/Camus-chat/.github/blob/main/profile/asset/logobiz.PNG" alt="biz-logo">
+    <img src="https://github.com/Camus-chat/.github/blob/main/profile/asset/logobiz.png" alt="biz-logo">
   </a>
 </p>
 
