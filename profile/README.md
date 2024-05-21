@@ -24,9 +24,9 @@
 
 ## 💫 TEAM
 ******
-|        <a href="https://github.com/damdam6"><br/><img src="https://github.com/damdam6.png"/></a>         | <a href="https://github.com/kimsejin"><img src="https://github.com/kimsejin.png" width="120"/></a> | <a href="https://github.com/dtdtdz"><img src="https://github.com/dtdtdz.png" width="120"/></a> | <a href="https://github.com/dolmeengii"><img src="https://github.com/dolmeengii.png" width="120"/></a> | <a href="https://github.com/SiyeonYoo"><img src="https://github.com/SiyeonYoo.png" width="120"/></a> | <a href="https://github.com/gabalja"><img src="https://github.com/gabalja.png" width="120"/></a> |
-|:--------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
-|                                  [damdam6](https://github.com/damdam6)                                   |                                 [kimsejin](https://github.com/kimsejin)                                  |                                 [dtdtdz](https://github.com/dtdtdz)                                 |                                 [민돌멩이](https://github.com/dolmeengii)                                  |                                [SiyeonYoo](https://github.com/SiyeonYoo)                                 |                                [gabalja](https://github.com/gabalja)                                 |
+| <a href="https://github.com/damdam6"><br/><img src="https://github.com/damdam6.png width="120"/></a> | <a href="https://github.com/kimsejin"><img src="https://github.com/kimsejin.png" width="120"/></a> | <a href="https://github.com/dtdtdz"><img src="https://github.com/dtdtdz.png" width="120"/></a> | <a href="https://github.com/dolmeengii"><img src="https://github.com/dolmeengii.png" width="120"/></a> | <a href="https://github.com/SiyeonYoo"><img src="https://github.com/SiyeonYoo.png" width="120"/></a> | <a href="https://github.com/gabalja"><img src="https://github.com/gabalja.png" width="120"/></a> |
+|:---------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
+|                                [damdam6](https://github.com/damdam6)                                |                                 [kimsejin](https://github.com/kimsejin)                                  |                                 [dtdtdz](https://github.com/dtdtdz)                                 |                                 [민돌멩이](https://github.com/dolmeengii)                                  |                                [SiyeonYoo](https://github.com/SiyeonYoo)                                 |                                [gabalja](https://github.com/gabalja)                                 |
 
 <br>
 
@@ -51,7 +51,7 @@
 AI 기반 텍스트, 문맥 분석을 통한 SafeChat 시스템을 제공한다.
 - 필터링 기준의 옵션화를 통해 채팅 필터의 다변화 서비스를 제공한다.
 - 대규모 채팅이 가능한 서버를 제공하여 최적화된 채팅 서비스를 제공한다.
-
+<br>
 **B2C 개인 채팅 서비스**
 - 다수의 익명 사용자를 대상으로 하는 '채팅'이 요구되는 개인이 안전하게 사용할 수 있는 채팅 서비스를 제공한다.
 - 필터링 강도의 다변화를 통해 사용자가 원하는 강도의 대화가 가능한 서비스를 제공한다.
