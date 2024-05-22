@@ -14,6 +14,12 @@
 
 ---
 
+## 🗓 Project Period
+*****
+2024.04.08 ~ 2021.05.20(7week)
+
+-----
+
 ## 📚 Repository
 ******
 - [BACKEND-REPOSITORY](https://github.com/Camus-chat/backend.git)
@@ -24,9 +30,9 @@
 
 ## 💫 TEAM
 ******
-| <a href="https://github.com/damdam6"><br/><img src="https://github.com/damdam6.png" width="120"/></a> | <a href="https://github.com/kimsejin"><img src="https://github.com/kimsejin.png" width="120"/></a> | <a href="https://github.com/dtdtdz"><img src="https://github.com/dtdtdz.png" width="120"/></a> | <a href="https://github.com/dolmeengii"><img src="https://github.com/dolmeengii.png" width="120"/></a> | <a href="https://github.com/SiyeonYoo"><img src="https://github.com/SiyeonYoo.png" width="120"/></a> | <a href="https://github.com/gabalja"><img src="https://github.com/gabalja.png" width="120"/></a> |
+| <a href="https://github.com/damdam6"><br/><img src="https://github.com/damdam6.png" width="120"/></a> | <a href="https://github.com/nijesmik"><img src="https://github.com/nijesmik.png" width="120"/></a> | <a href="https://github.com/dtdtdz"><img src="https://github.com/dtdtdz.png" width="120"/></a> | <a href="https://github.com/dolmeengii"><img src="https://github.com/dolmeengii.png" width="120"/></a> | <a href="https://github.com/SiyeonYoo"><img src="https://github.com/SiyeonYoo.png" width="120"/></a> | <a href="https://github.com/gabalja"><img src="https://github.com/gabalja.png" width="120"/></a> |
 |:-----------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
-|                                 [damdam6](https://github.com/damdam6)                                 |                                 [kimsejin](https://github.com/kimsejin)                                  |                                 [dtdtdz](https://github.com/dtdtdz)                                 |                                 [민돌멩이](https://github.com/dolmeengii)                                  |                                [SiyeonYoo](https://github.com/SiyeonYoo)                                 |                                [gabalja](https://github.com/gabalja)                                 |
+|                                 [damdam6](https://github.com/damdam6)                                 |                                 [nijesmik](https://github.com/nijesmik)                                  |                                 [dtdtdz](https://github.com/dtdtdz)                                 |                                 [민돌멩이](https://github.com/dolmeengii)                                  |                                [SiyeonYoo](https://github.com/SiyeonYoo)                                 |                                [gabalja](https://github.com/gabalja)                                 |
 
 <br>
 
