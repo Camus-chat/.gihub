@@ -14,6 +14,12 @@
 
 ---
 
+## 🗓 Project Period
+*****
+2024.04.08 ~ 2021.05.20(7week)
+
+-----
+
 ## 📚 Repository
 ******
 - [BACKEND-REPOSITORY](https://github.com/Camus-chat/backend.git)
